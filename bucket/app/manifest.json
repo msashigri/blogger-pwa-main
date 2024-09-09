@@ -1,8 +1,8 @@
 {
-  "name": "My Blog",
-  "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Ashuftah Shigri",
+  "id": "msashigri",
+  "short_name": "Ashuftah Shigri",
+  "description": "A Website to Watch Cricket.",
   "version": "1.0",
   "dir": "auto",
   "lang": "en-US",
